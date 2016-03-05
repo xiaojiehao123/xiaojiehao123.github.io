@@ -875,5 +875,11 @@ window.onload=function ()
 			}	
 		})
 	})();
+	
+	var oTxj_baidu=document.getElementById('txj_baidu');
+	var oTxj_bai_box=document.getElementById('txj_bai_box');
+	oTxj_baidu.onclick=function(){
+		oTxj_bai_box.style.display='block';
+	};
 
 }
