@@ -881,5 +881,8 @@ window.onload=function ()
 	oTxj_baidu.onclick=function(){
 		oTxj_bai_box.style.display='block';
 	};
+	
+	var txj_liuyan=document.getElementById('txj_liuyan');
+	
 
 }
