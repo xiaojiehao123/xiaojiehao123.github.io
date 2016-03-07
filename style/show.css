@@ -112,7 +112,10 @@ a.logo{ float:left; width:60px; height:50px; padding-left:25px; margin-right:15p
 .replyContent{line-height:24px;font-size:14px;color:#2b2b2b;font-family:"Microsoft YaHei"}
 .operation{clear:both;width:100%;height:30px;margin-top:8px}
 .noContent{text-align:center;display:block;background:#FFF;font:14px/2.3 "Microsoft YaHei";border-bottom:#e9e9e9 solid 1px;border-top:#e9e9e9 solid 1px;color:#999; margin-top:8px;}
+
+<!------------------------------------------------留言板--------------------------------------------------------->
 .takeComment{width:713px;display:block;overflow:hidden;border:#a5bcff solid 1px;background:#f3f8fd;margin-top:25px;font-family:Verdana;padding:15px 20px; position:relative;}
+
 .takeComment .liuyan_mask{display:inline-block; width:230px; height:16px; font-size:14px; position:absolute; left:20px; top:25px; padding:6px; color:#ccc;}
 .takeTextField{width:701px;height:70px;border:#b1b1b1 solid 1px;clear:both;display:block;margin:10px 0 10px 0;line-height:20px;padding:5px;box-shadow:inset 0 0 5px #DDD;font-family:"Microsoft YaHei"}
 .takeSbmComment{display:block;overflow:hidden}
